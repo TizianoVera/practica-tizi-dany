@@ -1,2 +1,2 @@
 # practica-tizi-dany
-Aprendiendo
+Practica haciendo un fork en git e pull request
